@@ -3,3 +3,11 @@
 # inshort you can basically give output using this print("xyz") function 
 
 print("hello world")
+
+print("hello\nworld") #"\n" for new line
+
+print("hello\tworld") #"\t" for  tab space
+
+#we can also print number(intiger) using print
+
+print(36) 
